@@ -7,7 +7,7 @@
 - I live in Porto Alegre - RS in South of :brazil::cowboy_hat_face::farmer::round_pushpin:
 - I’m currently working on Educational Institute São Judas Tadeu :school: as a IT Intern :technologist::briefcase::hammer_and_wrench:
 - I’m currently learning Internet Systems at FAQI Colledge (Distance Eduction) :student::books::mortar_board:
-- I’m looking to collaborate on Software Development, Mobile Development, Web Development and Computer Technical Support :technologist::computer: :eletric_plug: :hammer_and_wrench:
+- I’m looking to collaborate on Software Development, Mobile Development, Web Development and Computer Technical Support :technologist::computer: :electric_plug: :hammer_and_wrench:
 - Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), Image Editing (Vector and Digital), Flyers, Folders, Banners, Business Cards, Video Editing, Network Cabling, IoT Projects and more. :warning:
 - ⚡ Fun fact: Love to listening some Rap Musics, to Play Games (FPS, RPG, Mobba and others) and to Play Basketball. :video_game: :basketball: :basketball_man: :microphone: :music_note: :headphones: 
 
