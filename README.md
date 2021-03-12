@@ -15,7 +15,7 @@
 ## How to reach me: :dart:
 
 [Social Media Links](https://beacons.ai/designtechti)
-Scan this QR Code to access my social media!
+Scan this QR Code to access my social media! <br> <br>
 ![designtechti_beacons_qrcode](https://user-images.githubusercontent.com/59212312/110978231-e00d1a00-8341-11eb-890e-9cb6808dc7cf.jpg)
 
 ## My Skills
