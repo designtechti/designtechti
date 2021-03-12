@@ -14,7 +14,7 @@
 
 ## How to reach me: :dart:
 
-[Social Media Links](https://beacons.ai/designtechti) <br> <br>
+[Social Media Links: https://beacons.ai/designtechti](https://beacons.ai/designtechti) <br> <br>
 Scan this QR Code to access my social media! <br> <br>
 <img src="https://user-images.githubusercontent.com/59212312/110978231-e00d1a00-8341-11eb-890e-9cb6808dc7cf.jpg" alt="Social Media" width="250px" height="250px"/>
 
@@ -38,3 +38,4 @@ Scan this QR Code to access my social media! <br> <br>
 ![Design Tech TI's github stats](https://github-readme-stats.vercel.app/api?username=designtechti&show_icons=true&count_private=true&theme=radical)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
+### "Design Tech TI - Design & Technology in one place!"
