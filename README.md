@@ -35,8 +35,14 @@ Scan this QR Code to access my social media! <br> <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80" style="max-width:100%;"></img>
+<img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ![Design Tech TI's github stats](https://github-readme-stats.vercel.app/api?username=designtechti&show_icons=true&count_private=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti&layout=compact&langs_count=7&theme=dracula)
+
+ ![Snake animation](https://github.com/designtechti/designtechti/blob/output/github-contribution-grid-snake.svg)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 ### "Design Tech TI - Design & Technology in one place!"
