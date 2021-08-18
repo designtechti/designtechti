@@ -14,7 +14,7 @@
 
 Scan this QR Code below or follow this [link](https://beacos.ai/designtechti.dev) to access my social media
 <br>
-![designtechti dev_beacons_qrcode](https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg width=350px height=350px)
+![designtechti dev_beacons_qrcode](https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg){width=350x350}
 
 <br>
 
