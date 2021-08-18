@@ -10,6 +10,12 @@
 - Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), Image Editing (Vector and Digital), Flyers, Folders, Banners, Business Cards, Video Editing, Network Cabling, IoT Projects and more. :warning:
 - ⚡ Fun fact: Love to listening some Rap Musics, to Play Games (FPS, RPG, Mobba and others) and to Play Basketball. :video_game: :basketball: :basketball_man: :microphone: :musical_note: :headphones: 
 
+## How to reach me :dart:
+
+Scan this QR Code below or follow this [link](https://beacos.ai/designtechti.dev) to access my social media
+![designtechti dev_beacons_qrcode](https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg)
+
+<br>
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="max-width:100%;"></img>
