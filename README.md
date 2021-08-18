@@ -34,7 +34,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti&layout=compact&langs_count=7&theme=dracula)
 
- ![Snake animation](https://github.com/designtechti/designtechti/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/designtechti/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 ### "Design Tech TI - Design & Technology in one place!"
