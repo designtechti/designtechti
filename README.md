@@ -4,11 +4,19 @@
 
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
 ## I'm Marcelo Junior :bust_in_silhouette:
+:united_states:
 - I live in Porto Alegre - RS in South of Brasil :brazil: :cowboy_hat_face::farmer::round_pushpin:
 - I’m currently learning Internet Systems at FAQI Colledge (Distance Education) :student::books::mortar_board:
 - I’m looking to collaborate on Software Development, Mobile Development, Web Development and Computer Technical Support :technologist::computer: :electric_plug: :hammer_and_wrench:
 - Ask me about: Budgets of Computer Assembly & Maintenance services, Help Desk Technical Support, Remote Access (Windows & Linux), Image Editing (Vector and Digital), Flyers, Folders, Banners, Business Cards, Video Editing, Network Cabling, IoT Projects and more. :warning:
 - ⚡ Fun fact: Love to listening some Rap Musics, to Play Games (FPS, RPG, Mobba and others) and to Play Basketball. :video_game: :basketball: :basketball_man: :microphone: :musical_note: :headphones: 
+
+:brazil:
+Eu moro em Porto Alegre - RS no sul do Brasil. :brazil: :cowboy_hat_face::farmer::round_pushpin:
+Atualmente, estou aprendendo Sistemas de Internet na FAQI Colledge (Educação à Distância) :student::books::mortar_board:
+Estou procurando colaborar no Desenvolvimento de Software, Desenvolvimento Móvel, Desenvolvimento Web e Suporte Técnico em Computadores :technologist::computer: :electric_plug: :hammer_and_wrench:
+Pergunte-me sobre: ​​Orçamentos de serviços de montagem e manutenção de computadores, suporte técnico de help desk, acesso remoto (Windows e Linux), edição de imagens (vetorial e digital), panfletos, pastas, banners, cartões de visita, edição de vídeo, cabeamento de rede, projetos de IoT e mais. :warning:
+:zap: Curiosidade: Adoro ouvir algumas músicas de rap, jogar jogos (FPS, RPG, Mobba e outros) e jogar basquete.  :video_game: :basketball: :basketball_man: :microphone: :musical_note: :headphones: 
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="max-width:100%;"></img>
